@@ -1,6 +1,6 @@
 # Hi, I'm Danial Jamali 👋
 
-**Frontend Developer** based in Tehran, Iran, with 2+ years of professional experience building production web apps with React, Next.js and TypeScript.
+**Full Stack Developer** based in Tehran, Iran, with 3+ years of professional experience building production web apps with React, Next.js and TypeScript.
 
 I've worked on a Web3 NFT marketplace, a VR platform website and healthcare management systems. I'm now expanding into full-stack and AI-assisted development with Python and FastAPI, and I work with coding agents like Claude Code and Codex.
 
